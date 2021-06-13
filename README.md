@@ -14,7 +14,7 @@ The repository for FlipGame.
 ##  Project Desctiption
 A mobile game to flip cards and check scores. 
 
-![alt text](https://github.com/justjd1992/FlipGame/blob/main/Home.png?raw=true)
+![alt text](https://github.com/justjd1992/FlipGame/blob/main/Home.png?raw=true) ![alt text](https://github.com/justjd1992/FlipGame/blob/main/Score.png?raw=true) ![alt text](https://github.com/justjd1992/FlipGame/blob/main/Play.png?raw=true)
 
 ## Prerequisites
 
